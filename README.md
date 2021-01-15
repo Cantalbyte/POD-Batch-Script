@@ -1,4 +1,4 @@
-# POD-Notepad-Script
+# POD-Batch-Script
 Simple script for the Ping Of Death. Super noob, but sometimes fun for trolling friends. 
 The size of a correctly-formed IPv4 packet including the IP header is 65,535 bytes, including a total payload size of 84 bytes. 
 Many historical computer systems simply could not handle larger packets, and would crash if they received one. 
