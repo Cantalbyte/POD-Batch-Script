@@ -11,4 +11,5 @@ When the target system attempts to reassemble the fragments and ends up with an 
 Ping of Death attacks were particularly effective because the attacker’s identity could be easily spoofed. 
 Moreover, a Ping of Death attacker would need no detailed knowledge of the machine he/she was attacking, except for its IP address.
 
-Don't be too naughty kids.
+The bat and the exe are the same, but the exe just looks better :)
+
